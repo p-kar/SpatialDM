@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/SpatialDM" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
